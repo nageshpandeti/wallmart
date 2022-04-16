@@ -1,6 +1,1 @@
-1st python script............
-
-
-
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+1st python script.............
