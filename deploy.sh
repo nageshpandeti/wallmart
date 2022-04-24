@@ -5,3 +5,4 @@ Hi team,
 
 
 checking git fetch command .............
+demo git pull command
